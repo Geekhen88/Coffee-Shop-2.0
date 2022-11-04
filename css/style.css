@@ -165,7 +165,7 @@ footer a { color: cornsilk; }
     width: 100%;
     height: 350px;
     animation-name: background-pan;
-    animation-duration: 45s;
+    animation-duration: 60s;
     animation-timing-function: ease-in-out;
     animation-iteration-count: infinite;
     animation-direction: alternate;
